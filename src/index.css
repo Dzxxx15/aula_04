@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  padding-bottom: 500px;
+  background-color: #121212;
+  justify-content: center;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: white;
+  justify-content: center;
+}
+
+h2{
+  color: white;
+  justify-content: center;
+}
+
+ul{
+  color: white;
+  justify-content: center;
+}
+
+p{
+  color: white;
+  justify-content: center;
+}
+
+li{
+  color: white;
+  justify-content: center;
+}
