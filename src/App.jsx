@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Trabalhando com props e listas </h1>
+      <h1></h1>
       <Lista/>
     </div>
   )

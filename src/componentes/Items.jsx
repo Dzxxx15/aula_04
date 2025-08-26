@@ -1,10 +1,9 @@
 import PropType from "prop-type"
 
-function Item({marca, lançamento}){
+function Item({marca, Anolançamento, nome, velocidade, valor}){
     return(
         <>
-            <p>Item de uma lista</p>
-            <li>{marca} - {lançamento}</li>
+            <li>{nome} {marca} {Anolançamento}  {velocidade} {valor}</li>
         </>
     )
 }
